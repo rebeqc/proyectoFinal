@@ -1,0 +1,25 @@
+p {
+    color:red;
+    font-size:200%;
+}
+
+h1 {
+    color:blue;
+	background-color:001a00;font-style:'italic';
+}            
+h2 {
+    color:00ff00;
+} 
+
+
+body {
+    background-color:black;
+    color:white;
+    margin:0 4px 0 0;
+    border:12px solid;
+}           
+
+<style>
+	table, th, td {border: 1px solid blue; 
+}
+</style>
