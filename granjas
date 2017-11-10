@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Granjas de ostras en Costa Rica</title>
+
+   <meta charset="UTF-8" />
+
+   <!-- Referencia a estilos personales -->
+   <link rel="stylesheet" href="css/estilos.css">
+
+ </head>
+ 
+ <body>
+
+	<ol><p>Granjas de ostras en el Golfo de Nicoya</p></ol>
+
+	<h1>Granjas ostrícolas</h1>
+	<p>La actividad ostrícola en el país, se desarrolla principalmente en el Golfo de Nicoya. Estas granjas ostrícolas están coformadas por agrupaciones u asociaciones que surgen alrededor de la actividad y cuyos centros poblaciones se ubican alrededor o cerca del Golfo de Nicoya. Entres las granjas ostrícolas se pueden mencionar algunas con la cantidad de personas que la conforman y un nombre de contacto</p>
+	<p></p>
+    <table>
+      <tr>
+        <th>Granja</th>
+        <th>Poblado</th>
+        <th>Conformación</th>
+        <th>Nombre de contacto</th>
+      </tr>
+      <tr>
+        <th>Huertos Marinos</th>
+        <th>Costa de Pájaros</th>
+        <th>6 personas</th>
+        <th>Pablo Quirós</th>
+       </tr>
+       <tr>
+         <th>ASOPECUPACHI</th>
+         <th>Isla de Chira</th>
+         <th>5 personas</th>
+         <th>Shirley Fernández</th>
+       </tr> 
+       <tr>
+         <th>ACUAMAR</th>
+         <th>Isla Cedros</th>
+         <th>8 personas</th>
+         <th>Yahaira Jiménez</th>
+       </tr>
+       <tr>
+         <th>Familia Peralta</th>
+         <th>Punta Cuchillo</th>
+         <th>4 personas</th>
+         <th>Alexandra Peralta</th>
+       </tr>
+   </table>
+   <p></p>
+	<p>Entre las actividades que realizan las agrupaciones están: la limpieza y mantenimiento de organismos, la generación períodica de linternas y bolsas, limpieza de linternas que suele realizarse con hidrolavadoras para facilitar la tarea; así como la venta y comercialización del producto.</p>
+   <img src="http://www.campus.una.ac.cr/ediciones/2011/octubre/2011octubre_imag16a.jpg" width="250" height="188"/>
+	<p></p>
+	<p>Estas agrupaciones registran una personería jurídica que los faculta para ser sujetos de préstamos u otras obligaciones, dando sustento a las instituciones del gobierno para el acompañamiento en la tramitología.</p>
+   <p></p>
+   
+ <nav> 
+	<a href="ostras.html">Principal</a> |
+	<a href="index.html">Clientes</a> |
+			Granjas |
+		<p></p>
+ </nav>
+
+ </body>
+</html>
