@@ -4,6 +4,8 @@
    <title>Siembra de ostras en Costa Rica</title>
 
    <meta charset="UTF-8" />
+   
+   <link rel="stylesheet" href="css/estilos.css">
 
    <!-- Referencia a estilos personales -->
    <link rel="stylesheet" href="css/estilos.css">
@@ -35,14 +37,15 @@ en agua dulce como salada e involucra el cultivo de plantas o animales; entre lo
 cultivan a nivel mundial están los camarones, cocodrilos, peces y también varios tipos de algas con 
 uso cosmético y comestible</p>
 
-
- 
- <nav> 
-	<a href="index.html">Clientes</a> |
-	<a href="granjas.html">Granjas</a> |
-		Principal |
+<nav> 
+		<a href="html">ostras</a> |
+		<a href="granjas.html">Granjas</a> |
+		<a href="distribución.html">Distribución</a> |
 		
- </nav>
+	</nav>
+ 
+
+
 
 
  </body>
