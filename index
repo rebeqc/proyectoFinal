@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Siembra de ostras</title>
+
+   <meta charset="UTF-8" />
+
+   <!-- Referencia a estilos personales -->
+   <link rel="stylesheet" href="css/estilos.css">
+
+ </head>
+ 
+ 
+ <body>
+
+	<ol><p>Siembra de ostras en el Golfo de Nicoya</p></ol>
+
+	<h1>Generelidades de las ostras</h1>
+	<p>La ostra es un molusco bivalvo, esto significa que tiene un cuerpo blando recubierto 
+por una concha calcárea, conformado por dos valvas.Durante su etapa larval tiene una vida libre, 
+hasta que pasa por una metamorfósis donde pasa a tener una vida sésil. Las ostras se alimentan 
+por filtración, consumiendo principalmente fitoplancton y materia orgánica suspendida.</p>
+	<p></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Crassostrea_gigas_p1040848.jpg" width="511" height="592"/>
+
+	<p></p>
+	<p>A las ostras se les ha dado una gran cantidad de usos, entre estos filtradores de agua, 
+uso de la concha para la elaboración de artesanías, como indicadores de la calidad ambiental, 
+para la producción de perlas o medias perlas o para el consumo de su carne como alimento. Este 
+animal al formar su concha, contribuye además con la fijación de dióxido de carbono </p>
+	<p></p>
+	<p>Al ser su carne una fuente de proteína, en muchos países del mundo se practica el cultivo 
+de ostras para el consumo humano, lo que se conoce como acuicultura. La acuicultura se practica tanto 
+en agua dulce como salada e involucra el cultivo de plantas o animales; entre los organismos que se 
+cultivan a nivel mundial están los camarones, cocodrilos, peces y también varios tipos de algas con 
+uso cosmético y comestible</p>
+
+
+ 
+ <nav> 
+	<a href="index.html">Clientes</a> |
+	<a href="granjas.html">Granjas</a> |
+		Principal |
+		
+ </nav>
+
+
+ </body>
+</html>
