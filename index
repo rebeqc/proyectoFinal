@@ -35,12 +35,12 @@ en agua dulce como salada e involucra el cultivo de plantas o animales; entre lo
 cultivan a nivel mundial están los camarones, cocodrilos, peces y también varios tipos de algas con 
 uso cosmético y comestible</p>
 
-<nav> 
-		<a href="html">Ostras</a> |
-		<a href="granjas.html">Granjas</a> |
+//<nav> 
+	//	<a href="html">Ostras</a> |
+	//	<a href="granjas.html">Granjas</a> |
 	//	<a href="distribución.html">Distribución de granjas</a> |
 		
-	</nav>
+	//</nav>
  
  </body>
 </html>
